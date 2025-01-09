@@ -7,7 +7,7 @@ Tags:
   - Matrix
 ---
 
-# 🚀 _Day 5. Search in a sorted Matrix_ 🧠
+# 🚀 _Day 40. Search in a sorted Matrix_ 🧠
 
 The problem can be found at the following link: [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/matrix-gfg-160/problem/search-in-a-matrix-1587115621)
 
